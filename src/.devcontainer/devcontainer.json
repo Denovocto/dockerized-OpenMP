@@ -1,0 +1,11 @@
+{
+	"name": "Existing Docker Compose (Extend)",
+    "dockerComposeFile": [
+		"../../docker-compose.yml",
+	],
+    "service": "openmp",
+    "workspaceFolder": "/src",
+    "settings": {
+		"terminal.integrated.shell.linux": null
+	},
+}
